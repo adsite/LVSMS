@@ -1,7 +1,7 @@
 LVSMS
 =====
 
-LabVIEW 2013
+LabVIEW 8.6
 
 
 LabVIEW programs that send and recieve SMS in PDU format.
